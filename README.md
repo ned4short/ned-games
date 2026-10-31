@@ -25,7 +25,7 @@ Game cards are in `index.html` inside `<div class="grid">`. Each card's color co
 
 ## Tracking
 
-Ned Traffic site ID `8035ef31-9093-4702-ae8d-4995232cfbb9` (the same one the Replit version used, so visit history continues).
+Ned Traffic site ID `a083da2c-3864-4326-9551-e8ba31e98a28` (the same one the Replit version used, so visit history continues).
 
 ## Hosting
 
