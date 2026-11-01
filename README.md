@@ -1,6 +1,6 @@
 # Ned Games
 
-Ned's Arcade: a hub for six free browser games by Ned. Plain HTML, CSS and JavaScript, no build step.
+Ned's Arcade: a hub for eight free browser games by Ned. Plain HTML, CSS and JavaScript, no build step.
 
 **Live site:** https://games.nedwebservices.com/
 
